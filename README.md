@@ -25,17 +25,22 @@ This project is a Saas (Software as a Service) platform simulation that utilizes
 ## Installation
 
 1. Clone the repository.
-   git clone [项目的 Git 仓库地址]
+
+git clone https://github.com/Charlesahuang/Saas-platform-simulation-project
 
 2. Navigate to the project directory.
-   cd /Saas_frontend
+
+cd /Saas_frontend
 
 3. Run the following command to install the dependencies:
-   npm install
+
+npm install
 
 ## local run
 
 1. Run the following command:
-   npm run dev
+
+npm run dev
 
 2. Open your browser and navigate to [http://localhost:5173/](http://localhost:5173/).
+   s
