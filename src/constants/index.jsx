@@ -1,7 +1,7 @@
 import appleLogo from "../assets/apple_logo.png";
 import amazonLogo from "../assets/amazon_logo.png";
 import dellLogo from "../assets/Dell_logo.png";
-import SlackLogo from "../assets/Slack_logo.png";
+import SlackLogo from "../assets/slack_logo.png";
 
 import {
   RiBarChart2Line,
